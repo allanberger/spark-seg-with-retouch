@@ -3,6 +3,9 @@
 This example is based on this tutorial by Josh Beckwith:
 [Spark AR Retouching with LUTs (and other texture effects)](https://www.youtube.com/watch?v=4g4CoL_KCkE)
 
+Thread by Josh Beckwith in the Spark AR Community Facebook Group:
+[Using retouching with other texture effects](https://www.facebook.com/groups/SparkARcommunity/permalink/712178199194225/)
+
 ![Segmentation with Retouching in Spark AR](screenshot.png)
 
 <img src="https://github.com/allanberger/spark-seg-with-retouch/blob/master/layers.png" width="200">
