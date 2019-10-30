@@ -5,6 +5,6 @@ This example is based on this tutorial by Josh Beckwith:
 
 ![Segmentation and Retouching in Spark AR](screenshot.png)
 
-![layers](layers.png)
-![bg material](bg_mat.png)
-![face material](face_mat.png)
+![layers](layers.png =250x250)
+![bg material](bg_mat.png =250x250)
+![face material](face_mat.png =250x250)
