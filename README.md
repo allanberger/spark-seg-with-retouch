@@ -5,6 +5,6 @@ This example is based on this tutorial by Josh Beckwith:
 
 ![Segmentation and Retouching in Spark AR](screenshot.png)
 
-![layers](layers.png =250x250)
-![bg material](bg_mat.png =250x250)
-![face material](face_mat.png =250x250)
+<img src="https://github.com/allanberger/spark-seg-with-retouch/blob/master/layers.png" width="200">
+<img src="https://github.com/allanberger/spark-seg-with-retouch/blob/master/bg_mat.png" width="200">
+<img src="https://github.com/allanberger/spark-seg-with-retouch/blob/master/face_mat.png" width="200">
