@@ -1,4 +1,4 @@
-# Segmentation with Retouching in Spark AR
+# Segmentation with Retouching in Spark AR (v73.0.0, SDK v73.0)
 
 This example is based on this tutorial by Josh Beckwith:
 [Spark AR Retouching with LUTs (and other texture effects)](https://www.youtube.com/watch?v=4g4CoL_KCkE)
